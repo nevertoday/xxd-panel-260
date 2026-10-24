@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 260｜Geometric Memory: turns a photo into a small-subject memory map — the key form simplified in a naive way and surrounded by triangles, rectangles, circles, irregular geometric planes and fine lines that express direction, distance and relationships, repeating, shifting, overlapping and fading in a light order, with paper texture, grain and slight print error, a soft, restrained, time-worn palette drawn from the photo, extreme white space, and small text fragments in any language — short phrases, words, numbers or notes — set along geometric axes or aligned with the shapes. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-260 or asks for geometric memory-map, naive geometric storytelling or minimal editorial geometry from a photo.",
+  "short_description": "几何记忆：把照片收成几何符号组成的记忆地图，主体很小，文字沿几何轴线排",
+  "zh-CN": {
+    "name": "几何记忆",
+    "tagline": "把照片收成一张由几何符号组成的记忆地图，主体很小，四周大片留白。",
+    "look": "只留下能唤起主体身份和情感的核心形态，用稚拙的方式简化，再用三角形、矩形、圆形、不规则几何块面和细线标出方向、距离和彼此的关系。这些几何可以重复、错位、叠加和渐隐，像一张重新整理过的记忆地图，而不是装饰。纸纹、颗粒和轻微印刷误差留着，形状本身仍然简洁克制。颜色从照片里取，收成柔和、安静、有时间感的有限几种。主体很小，可偏心、贴边或被裁切；几段小字（短句、词语、编号或观察注释，语种不限）沿几何轴线排列，或贴着形状对齐、错位。",
+    "traits": ["几何记忆", "稚拙叙事", "几何符号", "纸感", "极端留白", "轴线文字"],
+    "good": [
+      "有方向或距离感的场景：一条通向远处的路、一座桥、站台上的人",
+      "能用几块形状概括的主体：一座房子、一棵树、一艘帆船、一把伞",
+      "想做成艺术出版物插页、展览海报或带编辑感文字的图"
+    ],
+    "poor": [
+      "想要完整写实场景或画满背景的需求",
+      "依赖丰富细节和质感的照片：美食特写、织物、人像",
+      "想要手写涂鸦、卡通或光滑商业矢量效果的需求"
+    ]
+  },
+  "en": {
+    "name": "Geometric Memory",
+    "tagline": "Turns your photo into a memory map made of geometric symbols, with a small subject and wide white space.",
+    "look": "Only the core form that brings back the subject's identity and feeling remains, simplified in a naive way and then mapped with triangles, rectangles, circles, irregular geometric planes and fine lines that mark direction, distance and how things relate. These shapes can repeat, shift, overlap and fade, like a memory map that has been rearranged, never as decoration. Paper texture, grain and slight print error stay, while the shapes themselves remain clean and restrained. Colours come from the photo, narrowed to a few soft, quiet, time-worn ones. The subject is small and may sit off-centre, against the edge or cropped; a few small text fragments in any language, such as short phrases, words, numbers or observations, run along the geometric axes or align and offset with the shapes.",
+    "traits": ["Geometric memory", "Naïve storytelling", "Geometric symbols", "Paper feel", "Extreme white space", "Text on axes"],
+    "good": [
+      "Scenes with direction or distance: a road running into the distance, a bridge, a person on a platform",
+      "Subjects that a few shapes can sum up: a house, a tree, a sailboat, an umbrella",
+      "Photos you want as an art-book insert, exhibition poster or image with editorial text"
+    ],
+    "poor": [
+      "Wanting a complete realistic scene or a filled background",
+      "Photos that rely on rich detail and texture: food close-ups, fabrics, portraits",
+      "Requests for handwritten doodles, cartoon or smooth commercial vector looks"
+    ]
+  },
+  "ja": {
+    "name": "幾何の記憶",
+    "tagline": "写真を幾何学の記号でできた記憶の地図にします。主役は小さく、まわりは広い余白です。",
+    "look": "主役の正体と気持ちを呼び起こす核となる形だけを残し、素朴に簡略化したうえで、三角形、長方形、円、不規則な幾何学の面、細い線で向き、距離、互いの関係を示します。これらの形は繰り返したり、ずれたり、重なったり、薄れたりして、整理し直した記憶の地図のようになり、飾りにはなりません。紙の目、粒子、わずかな印刷のずれは残しつつ、形そのものはすっきりと控えめです。色は写真から取り、やわらかく静かで時を感じる数色にしぼります。主役は小さく、中心からずれても、端に寄っても、切れてもよく、言語を問わない短い言葉、単語、番号、観察メモなどの小さな文字が幾何学の軸に沿って並んだり、形に揃えたりずらしたりして置かれます。",
+    "traits": ["幾何の記憶", "素朴な語り", "幾何学の記号", "紙の質感", "極端な余白", "軸に沿う文字"],
+    "good": [
+      "方向や距離を感じる場面：遠くへ続く道、橋、ホームに立つ人",
+      "いくつかの形で言い表せる主役：家、一本の木、帆船、傘",
+      "アートブックの差し込みページ、展示ポスター、編集的な文字入りの画像にしたい写真"
+    ],
+    "poor": [
+      "写実的な場面全体や背景を埋めた絵を求める場合",
+      "豊かな細部や質感が頼りの写真：料理のアップ、布地、人物写真",
+      "手書きの落書き、アニメ調、なめらかな商業ベクターを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "기하의 기억",
+    "tagline": "사진을 기하학 기호로 이루어진 기억의 지도로 바꿉니다. 주인공은 작고 둘레는 넓은 여백입니다.",
+    "look": "주인공의 정체와 감정을 떠올리게 하는 핵심 형태만 남겨 천진하게 단순화하고, 삼각형, 사각형, 원, 불규칙한 기하학 면, 가는 선으로 방향과 거리, 서로의 관계를 표시합니다. 이 도형들은 반복되고 어긋나고 겹치고 옅어지며, 다시 정리한 기억의 지도처럼 보일 뿐 장식이 되지 않습니다. 종이 결, 입자, 약간의 인쇄 오차는 남기되 도형 자체는 간결하고 절제되어 있습니다. 색은 사진에서 가져와 부드럽고 조용하며 시간이 느껴지는 몇 가지로 줄입니다. 주인공은 작고, 중심에서 벗어나거나 가장자리에 붙거나 잘려도 되며, 언어 제한 없는 짧은 문장, 단어, 번호, 관찰 메모 같은 작은 글씨가 기하학 축을 따라 놓이거나 도형에 맞춰 정렬되고 어긋납니다.",
+    "traits": ["기하의 기억", "천진한 서사", "기하학 기호", "종이 느낌", "극단적 여백", "축을 따르는 글씨"],
+    "good": [
+      "방향이나 거리감이 있는 장면: 멀리 이어지는 길, 다리, 승강장에 선 사람",
+      "도형 몇 개로 요약되는 주인공: 집, 나무 한 그루, 돛단배, 우산",
+      "아트북 삽지, 전시 포스터, 편집 디자인 글씨가 들어간 이미지로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "사실적인 장면 전체나 배경을 채운 그림을 원하는 경우",
+      "풍부한 세부와 질감에 기대는 사진: 음식 클로즈업, 직물, 인물 사진",
+      "손글씨 낙서, 만화풍, 매끈한 상업 벡터를 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "ذاكرة هندسية",
+    "tagline": "يحوّل صورتك إلى خريطة ذاكرة من رموز هندسية، بعنصر صغير وفراغ أبيض واسع.",
+    "look": "لا يبقى إلا الشكل الأساسي الذي يستعيد هوية العنصر وشعوره، يُبسَّط بطريقة فطرية ثم تُرسم حوله مثلثات ومستطيلات ودوائر ومسطّحات هندسية غير منتظمة وخطوط رفيعة تحدّد الاتجاه والمسافة والعلاقات بين الأشياء. قد تتكرر هذه الأشكال أو تنزاح أو تتراكب أو تتلاشى، كخريطة ذاكرة أُعيد ترتيبها، ولا تكون زينة أبداً. يبقى ملمس الورق والحبيبات وأخطاء الطباعة الطفيفة، بينما تظل الأشكال نفسها نظيفة متحفّظة. تُؤخذ الألوان من الصورة وتُختصر إلى ألوان قليلة ناعمة هادئة كأن الزمن مرّ عليها. العنصر صغير، وقد يبتعد عن المركز أو يلامس الحافة أو يُقتطع؛ وتمتد بضع شذرات نصية صغيرة بأي لغة، كعبارات قصيرة أو كلمات أو أرقام أو ملاحظات، على المحاور الهندسية أو تصطف مع الأشكال وتنزاح عنها.",
+    "traits": ["ذاكرة هندسية", "سرد فطري", "رموز هندسية", "ملمس ورقي", "فراغ أبيض شديد", "نص على المحاور"],
+    "good": [
+      "مشاهد فيها اتجاه أو مسافة: طريق يمتد إلى البعيد، جسر، شخص على رصيف محطة",
+      "عناصر تختصرها أشكال قليلة: بيت، شجرة، مركب شراعي، مظلة",
+      "صور تريدها صفحة مُدرجة في كتاب فني أو ملصق معرض أو صورة بنصوص تحريرية"
+    ],
+    "poor": [
+      "الرغبة في مشهد واقعي كامل أو خلفية ممتلئة",
+      "صور تعتمد على تفاصيل وملامس غنية: لقطات طعام قريبة، أقمشة، صور شخصية",
+      "طلب خربشات بخط اليد أو مظهر كرتوني أو رسم متجهي تجاري أملس"
+    ]
+  }
+}

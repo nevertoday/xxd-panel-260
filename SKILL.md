@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-260
-description: "Create XXD Panel 260 raster artwork: a faithful photograph paired with a naïve geometric memory map of simple symbols, paper grain and extreme white space. Accepts one image or a directory batch and supports top-bottom, left-right, design-only and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact or text-free typography. Use whenever the user invokes xxd-panel-260 or asks for this 几何记忆 style."
+description: "XXD Panel 260｜Geometric Memory: turns a photo into a small-subject memory map — the key form simplified in a naive way and surrounded by triangles, rectangles, circles, irregular geometric planes and fine lines that express direction, distance and relationships, repeating, shifting, overlapping and fading in a light order, with paper texture, grain and slight print error, a soft, restrained, time-worn palette drawn from the photo, extreme white space, and small text fragments in any language — short phrases, words, numbers or notes — set along geometric axes or aligned with the shapes. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-260 or asks for geometric memory-map, naive geometric storytelling or minimal editorial geometry from a photo."
 ---
 
 # XXD Panel 260
